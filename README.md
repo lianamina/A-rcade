@@ -1,7 +1,10 @@
-## A+RCADE Project
+## A+RCADE
 
 ### Project Overview
 A+RCADE is a project to create a platform for gamified learning experiences. The platform leverages interactive content to make education engaging and enjoyable.
+
+### Pitch Deck
+[A+rcade.pdf](https://github.com/user-attachments/files/21563347/DAAM-Attention.Deficit.Pitch.Deck.pdf)
 
 ### Key Features
 
